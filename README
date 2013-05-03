@@ -1,1 +1,2 @@
 1. bow.cpp is the code for bag of words model using surf/sift descriptors
+2. panorama.cpp has the panorama which takes a set of images, creates a panorama of them and gives an image as the output.
