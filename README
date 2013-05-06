@@ -1,3 +1,2 @@
 1. 1dcode_det.cpp is the sample code which I have written for detecting 1D barcodes in an image.
-2. panorama.cpp has the panorama function which takes a set of images, creates a panorama of them and gives an image as the output. Used to stitch images in the line reading project.
-3. bow.cpp is the code for bag of words model using surf/sift descriptors.
+2. bow.cpp is the code for bag of words model using surf/sift descriptors.
